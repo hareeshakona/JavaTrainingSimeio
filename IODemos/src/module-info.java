@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author hakona
- *
- */
-module IODemos {
-}
