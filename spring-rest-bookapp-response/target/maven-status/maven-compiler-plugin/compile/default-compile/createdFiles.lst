@@ -1,0 +1,11 @@
+com\bookapp\SpringRestBookappResponseApplication.class
+com\bookapp\service\IBookService.class
+com\bookapp\exceptions\BookNotFoundException.class
+com\bookapp\model\Book.class
+com\bookapp\service\BookServiceImpl.class
+com\bookapp\repository\BookMapper.class
+com\bookapp\controllers\BookController.class
+com\bookapp\exceptions\GlobalExceptionHandler.class
+com\bookapp\model\ApiErrors.class
+com\bookapp\repository\BookRepositoryImpl.class
+com\bookapp\repository\IBookRepository.class
